@@ -17,6 +17,13 @@
     "idf.flashType": "UART",
     "files.associations": {
         "esp_adc_cal.h": "c",
-        "adc_continuous.h": "c"
+        "adc_continuous.h": "c",
+        "dac_continuous.h": "c",
+        "format": "c",
+        "dac_oneshot.h": "c",
+        "freertos.h": "c",
+        "stdlib.h": "c",
+        "task.h": "c",
+        "esp_log.h": "c"
     }
 }

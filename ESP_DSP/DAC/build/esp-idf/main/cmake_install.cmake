@@ -1,4 +1,4 @@
-# Install script for directory: /home/hhouse/workspace/ESP_DSP/DAC/main
+# Install script for directory: /home/hhouse/workspace/DSP/ESP_DSP/DAC/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
