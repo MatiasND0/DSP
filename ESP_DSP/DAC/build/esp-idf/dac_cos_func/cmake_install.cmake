@@ -1,4 +1,4 @@
-# Install script for directory: /home/hhouse/workspace/DSP/ESP_DSP/DAC/components/dac_cos_func
+# Install script for directory: /home/hhouse/workspace/ESP_DSP/DAC/components/dac_cos_func
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

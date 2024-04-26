@@ -17,6 +17,5 @@
     "files.associations": {
         "dac_cos_func.h": "c"
     },
-    "idf.flashType": "UART",
-    "cmake.configureOnOpen": false
+    "idf.flashType": "UART"
 }

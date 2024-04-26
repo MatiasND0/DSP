@@ -21,7 +21,7 @@ void app_main(void)
     
     dac_cosine_config_t cos0_cfg = {
         .chan_id = DAC_CHAN_0,
-        .freq_hz = 500, // It will be covered by 8000 in the latter configuration
+        .freq_hz = 250, // It will be covered by 8000 in the latter configuration
         .clk_src = DAC_COSINE_CLK_SRC_DEFAULT,
         .offset = 0,
         .phase = DAC_COSINE_PHASE_0,

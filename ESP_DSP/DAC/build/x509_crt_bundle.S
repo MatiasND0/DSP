@@ -1,4 +1,4 @@
-/* * Data converted from /home/hhouse/workspace/DSP/ESP_DSP/DAC/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/hhouse/workspace/ESP_DSP/DAC/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded
